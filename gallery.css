@@ -73,6 +73,8 @@ img{
     }
     .one{
         flex-direction: column;
+    }
+    .two{
         justify-content: center;
         align-items: center;
     }
